@@ -1,4 +1,4 @@
-# uptime-kuma-buld-importer
+# uptime-kuma-bulk-importer
 Simple script to bulk import domains in uptime kuma.
 
 Create a hosts.txt file.
